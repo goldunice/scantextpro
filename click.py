@@ -74,4 +74,4 @@ if uploaded_file is not None:
     st.code(text)
 
 st.divider()
-st.write("Made with 🧠 and 🍯 by Naive Bees 🐝")
+st.write("Made by Akmaljon Nosiraliyev")
